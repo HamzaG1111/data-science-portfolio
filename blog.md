@@ -4,4 +4,4 @@ Throughout this course, I will write posts about data science topics I am intere
 
 ## Blog 1
 
-Coming soon.
+[What is Data Science to Me?](blog/blog1.md)
