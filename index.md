@@ -3,8 +3,15 @@
 Data Science Student  
 UNC Charlotte
 
+---
+
 ## About Me
 
-Welcome to my Data Science Studio portfolio.
+I am a Data Science student at UNC Charlotte. This portfolio will document my learning, projects, and progress throughout the semester.
 
-This website will document my learning and projects throughout the semester.
+---
+
+## Portfolio
+
+- [Blog](blog.md)
+- [Projects](projects.md)
